@@ -1,0 +1,17 @@
+.env
+.env.*
+*researcher*token*
+*.pem
+*.key
+id_rsa*
+vmlinux
+bzImage
+*.cpio
+*.img
+*.qcow
+*.qcow2
+*.o
+*.a
+*.so
+core
+core.*
